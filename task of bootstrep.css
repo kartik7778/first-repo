@@ -1,0 +1,165 @@
+.header {
+    background-color:  rgb(14, 170, 160);
+    min-height: 3.5rem;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.start{
+    color: rgb(29, 29, 151);
+  
+   padding:10px;
+    
+}
+.jai{
+    border: 0.1px solid black;
+    background-color:white;
+    height: 10rem;
+    
+}
+.jai img{
+    height:100%;
+    width: 100%   ;
+}
+
+
+.jai2{
+    border: 0.1px solid black;
+    background-color:white;
+    min-height: 10rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     
+}
+.mid h1{ 
+    background-color: rgb(14, 170, 160);
+    color: white;
+}
+.mid{
+    border: 4px double  black;
+    padding: 0 !important;
+}
+.ravi span{
+    font-size: 25px;
+    
+}
+ 
+.fa-solid{
+    padding-bottom: 20px;
+    font-weight: 2px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+.ravi p{
+    margin-top: 5px;
+}
+
+ .kali{
+    color: red;
+ }
+ .col-sm-4 img{
+    height: 16rem;
+ }
+
+ .kartik{
+    min-height: 40rem;
+    background-color: grey;
+ }
+ .kartik p{
+    font-size: 0.75rem;
+ }
+ .col-sm-3 span{
+    font-size: 1.5rem;
+    font-weight: 10rem;
+ } 
+ .footer{
+    background-color: green;
+    min-height: 10rem;
+ }
+ .great{
+    height: 25rem;
+ }
+ .great span{
+    font-size: 1.5rem;
+ } 
+.life img{
+    height: 20rem;
+    
+}
+ .ravisir img{
+     height: 15rem;
+ }
+ .kavi{
+    min-height: 20rem;
+ }
+ .kavi h3{
+    margin-top: 6rem;
+    margin-left: 6rem;
+    color: red;
+ }
+ .kavi p{
+    margin-left: 6rem;
+ }
+ .kavi span{
+    color: red;
+ }
+  .kavi button{
+    margin-left: 4rem;
+     
+    font-size: 1.5rem;
+  }
+.shiva{
+    margin-left: 30rem;
+    color: red;
+    margin-top: 8rem;
+}
+.lal img{
+    height: 13rem;
+    margin-top: 10rem;
+    width: 100%;
+}
+  .giri{
+    height: 2.5rem;
+    margin-top: 4rem;
+    margin-left: 4rem;    
+}
+.giri span{
+    color: white;
+    
+}
+.later img{
+    height: 30rem;
+    width: 100%;
+}
+.phone{
+    margin-top: 8rem;
+    margin-left: 4rem;
+}
+.phone button{
+    color: white;
+    height: 3rem;
+    font-size: 1.5rem;
+}
+ 
+.fitt button{
+    font-size: 1.5rem;
+}
+.gk img{
+    height: 5rem;
+    margin-left: 2rem;
+
+}
+.last1{
+background-color:skyblue;
+height: 20rem;
+border-radius: 20px 10rem;
+ 
+}
+.last2{
+    background-color:rgb(45, 47, 48);
+height: 20rem;
+border-radius: 20px 10px;
+
+}
+.last3 p{
+    background-color: black;
+    color: white;
+}
